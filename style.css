@@ -1,0 +1,24 @@
+
+
+p{
+    font-size: larger
+    
+}
+
+h1{
+    margin-top: 10px;
+    background-color: rgb(200, 68, 51);
+
+}
+
+.navbar{
+    background-color: rgb(230, 86, 86);
+    padding: 10px; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+li{
+    list-style: none
+}
