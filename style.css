@@ -12,11 +12,10 @@ h1{
 }
 
 .navbar{
-    background-color: rgb(230, 86, 86);
-    padding: 10px; 
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-around;
+    background:linear-gradient(90deg, rgb(51, 190, 200) 0%, rgba(255, 255, 255, 1) 100%);
+    padding: 10px;
 }
 
 li{
